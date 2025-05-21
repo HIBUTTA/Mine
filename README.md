@@ -1,2 +1,2 @@
 # HIBUTTA
-Lern coding 
+Learn coding 
